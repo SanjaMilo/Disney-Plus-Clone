@@ -1,3 +1,9 @@
+Project developed using REACT.js, styled-components (CSS-in-JS), FIREBASE for hosting. 
+The user login is with Google account, and the Nav-manu opens. Nav-menu has external links (not functionally connected to the project).
+User can see the Home page, with the listed movies and also visit the movie detail page by clicking on the specified movie card. 
+When the user logs out, by clicking on the image (from the gmail account, when login), he is redirected to the Login page. 
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
 
 ## Available Scripts
